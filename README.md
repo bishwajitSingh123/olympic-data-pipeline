@@ -1,2 +1,3 @@
-# olympic-data-pipeline
-End-to-End Data Engineering Project using Azure Data Factory, Azure Data Lake, Databricks, and Delta Lake to build an Olympic data analytics pipeline with Bronze-Silver-Gold architecture.
+# Olympic Data Engineering Pipeline 🏅
+
+An end-to-end Azure-based data pipeline project to ingest, transform, and analyze Olympic data using ADF, Databricks, Delta Lake, and Azure DevOps.
